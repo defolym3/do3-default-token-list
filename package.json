@@ -1,0 +1,21 @@
+{
+  "name": "@defolym3/do3-default-token-list",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Token list for Defolym3",
+  "main": "build/defolym3-default.tokenlist.json",
+  "files": [
+    "build/defolym3-default.tokenlist.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "npx rimraf build && mkdir build && node src/write.js > build/defolym3-default.tokenlist.json",
+    "prepublishOnly": "npm run build"
+  },
+  "homepage": "https://github.com/defolym3/do3-default-token-list#readme",
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "name": "DefOlym3 Default",
+  "timestamp": "2024-11-20T19:10:27.922Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "defolym3",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Bridged USDC",
+      "symbol": "USDC",
+      "address": "0xE9A198d38483aD727ABC8b0B1e16B2d338CF0391",
+      "chainId": 1946,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "isQuoteToken": true,
+      "isStableCoin": true,
+      "coingeckoTokenId": "usd-coin"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "address": "0xE4c743036C74026649C9Dc1b8C2Abb028BBf4C14",
+      "chainId": 1946,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+      "isQuoteToken": true,
+      "isStableCoin": true,
+      "coingeckoTokenId": "tether"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "address": "0x32b8254f669a5fa56fd4acfa141ed7243eb767b5",
+      "chainId": 1946,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+      "coingeckoTokenId": "wrapped-bitcoin"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 1946,
+      "decimals": 18,
+      "logoURI": "https://coinwatch.finance/images/coin/wrapped-ether.png",
+      "coingeckoTokenId": "ethereum",
+      "isQuoteToken": true
+    },
+    {
+      "name": "Wrapped liquid staker Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0x5717D6A621aA104b0b4cAd32BFe6AD3b659f269E",
+      "chainId": 1946,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defolym3/do3-default-token-list/main/images/wstETH.png?raw=true",
+      "coingeckoTokenId": "wrapped-steth"
+    },
+    {
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27008/standard/cbeth.png?1709186989",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x07CFA5Df24fB17486AF0CBf6C910F24253a674D3"
+    },
+    {
+      "name": "DAI Stablecoin Token",
+      "symbol": "DAI",
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
+      "isQuoteToken": true,
+      "isStableCoin": true
+    },
+    {
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defolym3/do3-default-token-list/main/images/degen.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xc9034c3E7F58003E6ae0C8438e7c8f4598d5ACAA"
+    },
+    {
+      "name": "EURC",
+      "symbol": "EURC",
+      "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
+      "coingeckoTokenId": "euro-coin"
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16786/standard/mimlogopng.png?1696516358",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xa2b120Cab75AEfDfAFdA6A14713349A3096EED79",
+      "isStableCoin": true
+    },
+    {
+      "name": "Tuna Driver",
+      "symbol": "TUNA",
+      "address": "0x4073de1f5f60f92c8d014251e1a6396589c10c09",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defolym3/do3-default-token-list/main/images/TUNA.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x4be0f8e84885604a2021a2c1e3d4938ed8f6191b"
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp",
+      "isStableCoin": true,
+      "coingeckoTokenId": "bridged-usd-coin-base"
+    },
+    {
+      "name": "USDC Stablecoin",
+      "symbol": "USDC",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/defolym3/do3-default-token-list/main/images/USDC.svg",
+      "isQuoteToken": true,
+      "isStableCoin": true
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+      "isStableCoin": true,
+      "isQuoteToken": true,
+      "coingeckoTokenId": "tether"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defolym3/do3-default-token-list/main/images/ETH.webp",
+      "coingeckoTokenId": "ethereum",
+      "isQuoteToken": true
+    },
+    {
+      "name": "Wrapped liquid staker Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defolym3/do3-default-token-list/main/images/wstETH.png?raw=true",
+      "coingeckoTokenId": "wrapped-steth"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "isStableCoin": true
+    }
+  ]
+}
